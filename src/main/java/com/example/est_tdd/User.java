@@ -1,4 +1,4 @@
-package com.example.est_tdd.tddDemo;
+package com.example.est_tdd;
 
 import lombok.Getter;
 
