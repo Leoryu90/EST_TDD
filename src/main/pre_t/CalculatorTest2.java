@@ -1,10 +1,9 @@
-package com.example.est_tdd;
+package com.example.est_tdd.day1;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
 public class CalculatorTest2 {
 

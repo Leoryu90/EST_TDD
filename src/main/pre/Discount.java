@@ -1,4 +1,4 @@
-package com.example.est_tdd;
+package com.example.est_tdd.day1;
 
 public class Discount {
     private final int discountPercentage;

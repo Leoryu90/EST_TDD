@@ -1,6 +1,4 @@
-package com.example.est_tdd;
-
-import org.junit.jupiter.api.Test;
+package com.example.est_tdd.day1;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
