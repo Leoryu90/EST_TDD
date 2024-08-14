@@ -19,4 +19,6 @@ public class UserTest {
         assertThat(user.getId()).isNull();
 
     }
+
+
 }
